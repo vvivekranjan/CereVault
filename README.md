@@ -52,8 +52,8 @@
 
 ## 🔑 API Keys
 
-- **Cerebras**: `csk-9ff2v5t9cvjdrfdcckv238rw6cxccvjjh3rdnm9cxekx5vff`
-- **LiveKit**: `APIX8QG6eTDitCT`
+- **Cerebras**
+- **LiveKit**
 
 *(Store in .env file for security)*
 
